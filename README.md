@@ -13,5 +13,5 @@ statements only necessary to cheat windows antivirus software
 
 ## next steps:
 
-go coverage testing
-api documentation 
+- go coverage testing
+- api documentation 
